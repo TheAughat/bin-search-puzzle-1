@@ -1,0 +1,25 @@
+<svg width="140" height="190" xmlns="http://www.w3.org/2000/svg" xmlns:undefined="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0">
+ <defs id="defs3">
+  <linearGradient id="linearGradient8304">
+   <stop offset="0" stop-color="#830007" id="stop8314"/>
+   <stop offset="1" stop-color="#f00" id="stop8316"/>
+  </linearGradient>
+  <linearGradient y2="0.07033" x2="0.19149" y1="0.95316" xlink:href="#linearGradient8304" x1="0.89359" id="linearGradient8318"/>
+  <linearGradient y2="0.90625" x2="0.94677" y1="0.06253" xlink:href="#linearGradient8304" x1="0.09574" id="linearGradient9086"/>
+  <pattern height="13.75001" patternTransform="matrix(0.7771800847745141,0,0,1.061966896057129,44.6270033620533,-11.674844741821289)" patternUnits="userSpaceOnUse" width="14.14216" id="pattern10642">
+   <g fill="#fff" id="g10644">
+    <rect transform="rotate(45 31.25 -2.9289)" x="13.724" y="18.7391" width="5" height="5" id="rect10646"/>
+    <rect transform="rotate(45 31.25 -2.9289)" x="18.447" y="23.4621" width="5" height="5" id="rect10648"/>
+    <rect transform="rotate(45 31.25 -2.9289)" x="18.724" y="13.7391" width="5" height="5" id="rect10650"/>
+    <rect transform="rotate(45 31.25 -2.9289)" x="23.4467" y="18.4621" width="5" height="5" id="rect10652"/>
+   </g>
+  </pattern>
+ </defs>
+ <metadata>image/svg+xmlOpenclipartCard backs: grid red2009-03-23T13:59:53playing card backs for the "Ornamental", "White", "Simple" and "Bordered" setshttp://openclipart.org/detail/23038/card-backs:-grid-red-by-nicubunu-23038nicubunubordered deckcardcardsclip artclipartdeckgamblinggameimagemediaornamental deckplayplaying cardspngpublic domainsimple decksvgwhite deck</metadata>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="null" fill="url(#linearGradient8318)" d="m19.43603,3.77394l100.89412,0c8.6881,0 15.67704,7.03055 15.67704,15.76474l0,150.74686c0,8.72773 -6.98895,15.75721 -15.67704,15.75721l-100.89412,0c-8.68382,0 -15.67384,-7.02948 -15.67384,-15.75721l0,-150.74686c0,-8.73741 6.99002,-15.76796 15.67384,-15.76796l0,0.00322z" id="path1385"/>
+  <path stroke="null" fill="url(#pattern10642)" d="m20.63526,5.29718l98.61007,0c8.49141,0 15.32214,6.90611 15.32214,15.4857l0,148.07862c0,8.57325 -6.83073,15.47831 -15.32214,15.47831l-98.61007,0c-8.48724,0 -15.31901,-6.90506 -15.31901,-15.47831l0,-148.07862c0,-8.58275 6.83178,-15.48886 15.31901,-15.48886l0,0.00317z" id="path9846"/>
+  <path stroke="null" fill="url(#linearGradient9086)" d="m17.07546,-0.09334c-9.47451,0 -17.11144,7.57597 -17.11144,16.97485l0,155.79623c0,9.39776 7.63694,17.00706 17.11144,17.00706l105.74584,0c9.47339,0 17.12152,-7.6093 17.12152,-17.00706l0,-155.79623c0,-9.40332 -7.64814,-16.97929 -17.12152,-16.97929l-105.74584,0l0,0.00444zm0,1.38856l105.74584,0c8.72313,0 15.71059,6.93279 15.71059,15.58629l0,155.79623c0,8.65349 -6.98746,15.6185 -15.71059,15.6185l-105.74584,0c-8.72313,0 -15.71171,-6.96501 -15.71171,-15.6185l0,-155.79623c0,-8.65794 6.98858,-15.59073 15.71171,-15.59073l0,0.00444z" id="path2154"/>
+ </g>
+</svg>

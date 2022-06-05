@@ -1,0 +1,58 @@
+
+#card-arr {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+}
+
+.card {
+    width: 5em;
+    margin: 0.5em;
+}
+.card:hover {
+    cursor: pointer;
+    transform: translateY(10%);
+}
+
+.card-face {
+    width: 5em;
+    margin: 0.5em;
+}
+
+.red {
+    color: red;
+    border: 1px solid red;
+    border-radius: 11px;
+}
+.blue {
+    color: rgb(0, 90, 255);
+    border: 1px solid rgb(0, 90, 255);
+    border-radius: 11px;
+}
+
+.card-face-container {
+    position: relative;
+    text-align: center;
+  }
+
+.centered {
+    pointer-events: none;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, 15%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    margin-top: 1.23em;
+  }
+
+.game-info {
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

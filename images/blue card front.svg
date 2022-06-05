@@ -1,0 +1,22 @@
+<svg width="140" height="190" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0">
+ <defs id="defs3">
+  <linearGradient id="linearGradient8303">
+   <stop id="stop8314" stop-color="#000086" offset="0"/>
+   <stop id="stop8316" stop-color="#005aff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient9086" x1="0.09574" xlink:href="#linearGradient8303" y1="0.06253" x2="0.94677" y2="0.90625"/>
+  <pattern id="pattern10642" width="14.14216" patternUnits="userSpaceOnUse" patternTransform="matrix(1.035240888595581,0,0,1.0501406586556072,13.845080375671387,-10.022515154377004)" height="13.75001">
+   <g id="g10644" fill="#fff">
+    <rect id="rect10646" height="5" width="5" y="18.7391" x="13.724" transform="rotate(45 31.25 -2.9289)"/>
+    <rect id="rect10648" height="5" width="5" y="23.4621" x="18.447" transform="rotate(45 31.25 -2.9289)"/>
+    <rect id="rect10650" height="5" width="5" y="13.7391" x="18.724" transform="rotate(45 31.25 -2.9289)"/>
+    <rect id="rect10652" height="5" width="5" y="18.4621" x="23.4467" transform="rotate(45 31.25 -2.9289)"/>
+   </g>
+  </pattern>
+ </defs>
+ <metadata>image/svg+xmlOpenclipartCard backs: grid blue2009-03-23T13:56:40playing card backs for the "Ornamental", "White", "Simple" and "Bordered" setshttp://openclipart.org/detail/23034/card-backs:-grid-blue-by-nicubununicubunubordered deckcardcardsclip artclipartdeckgamblinggameimagemediaornamental deckplayplaying cardspngpublic domainsimple decksvgwhite deck</metadata>
+ <g>
+  <title>Layer 1</title>
+  <path id="path2154" d="m17.17147,0.05727c-9.47628,0 -17.11465,7.57302 -17.11465,16.96823l0,155.73553c0,9.3941 7.63837,17.00043 17.11465,17.00043l105.76562,0c9.47516,0 17.12473,-7.60633 17.12473,-17.00043l0,-155.73553c0,-9.39965 -7.64957,-16.97267 -17.12473,-16.97267l-105.76562,0l0,0.00444zm0,1.38802l105.76562,0c8.72476,0 15.71353,6.93009 15.71353,15.58022l0,155.73553c0,8.65012 -6.98877,15.61242 -15.71353,15.61242l-105.76562,0c-8.72476,0 -15.71465,-6.96229 -15.71465,-15.61242l0,-155.73553c0,-8.65456 6.98989,-15.58466 15.71465,-15.58466l0,0.00444z" fill="url(#linearGradient9086)" stroke="null"/>
+ </g>
+</svg>
